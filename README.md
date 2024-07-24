@@ -1,16 +1,27 @@
-## Hi there 👋
+ ## Hi there, I'm Leonardo! 👋
 
-<!--
-**leoespi/leoespi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passionate about teamwork and efficient coding. Currently studying Software Analysis and Development, and enrolled in a Mobile Development Bootcamp. I'm eager to gain experience in Front-end development, always striving to work efficiently and help others in the best possible way.
 
-Here are some ideas to get you started:
+### 🔭 Current Work
+- Working on various projects involving Laravel, Flutter, and Angular.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning
+- Improving skills in Mobile Development with Flutter.
+- Exploring new technologies in Front-end development.
+
+### 👯‍♂️ Looking to Collaborate On
+- Open source projects related to mobile and web development.
+
+### 💬 Ask Me About
+- Laravel, Flutter, Angular, or any programming-related queries.
+
+### 📫 How to Reach Me
+- Connect with me on [LinkedIn](www.linkedin.com/in/leonardo-espinosa-rivera-286629246).
+
+
+### ⚡ Technologies & Tools
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoespi&layout=compact)
+- PHP, Dart, JavaScript, SQL, HTML/CSS
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leoespi&show_icons=true&count_private=true)
