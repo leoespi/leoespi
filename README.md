@@ -13,7 +13,8 @@ I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passiona
 - Open source projects related to mobile and web development.
 
 ### 📫 How to Reach Me
-- Connect with me on [LinkedIn](www.linkedin.com/in/leonardo-espinosa-rivera-286629246).
+- Connect with me on [LinkedIn]([www.linkedin.com/in/leonardo-espinosa-rivera-286629246](https://www.linkedin.com/in/leonardo-espinosa-rivera-286629246/)).
+ 
 
 ### ⚡ Technologies & Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoespi&theme=dark&layout=compact)
