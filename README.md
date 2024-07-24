@@ -20,8 +20,8 @@ I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passiona
 
 
 ### ⚡ Technologies & Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoespi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoespi&theme=dark&layout=compact)
 - PHP, Dart, JavaScript, SQL, HTML/CSS
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leoespi&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leoespi&theme=dark&show_icons=true&count_private=true)
