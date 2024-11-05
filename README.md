@@ -1,6 +1,6 @@
  ## Hi there, I'm Leonardo! 👋
 
-I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passionate about teamwork and efficient coding. Currently studying Software Analysis and Development, and enrolled in a Mobile Development Bootcamp. I'm eager to gain experience in Front-end development, always striving to work efficiently and help others in the best possible way.
+I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passionate about teamwork and efficient coding. Currently studying Software Analysis and Development, and enrolled in a Mobile Development Bootcamp. I'm eager to gain experience in Back-end development, always striving to work efficiently and help others in the best possible way.
 
 ### 🔭 Current Work
 - Working on various projects involving Laravel, Flutter, and Angular.
@@ -13,7 +13,7 @@ I'm a Laravel (PHP), Flutter (Dart), and Angular (JavaScript) developer passiona
 - Open source projects related to mobile and web development.
 
 ### 📫 How to Reach Me
-- Connect with me on [LinkedIn]([www.linkedin.com/in/leonardo-espinosa-rivera-286629246](https://www.linkedin.com/in/leonardo-espinosa-rivera-286629246/)).
+- Connect with me on [LinkedIn]([www.linkedin.com/in/leonardo-espinosa-rivera-286629246]).
  
 
 ### ⚡ Technologies & Tools
